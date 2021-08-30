@@ -1,5 +1,7 @@
 .attribution { 
     font-size: 11px; text-align: center;
+    text-align: center;
+    margin-top: 9px;
 }
 
 .attribution a { 
@@ -19,12 +21,8 @@ div.card {
     background-color: white;
     height: 580px;
     width: 380px;
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+    margin: auto;
+    margin-top: 3%;
     border-radius: 20px;
     box-shadow: 1px 2px 10px gray;
 }
